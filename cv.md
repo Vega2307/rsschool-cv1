@@ -1,13 +1,9 @@
 # VLADIMIR ALEKSEEV
 *Front-End Web Developer*
-
 =======
-
 Hello!
 My name is Vladimir, I'm 23 years old, and I'm a beginner web developer.
-
 ===
-
 **DATE OF BIRTH:**
 23.JUL.1998
 
@@ -27,9 +23,7 @@ Speciality: HTML, CSS
 **PREVIOUS JOBS:**
 Warehouse manager in a clothing store.
 Military service in the French Foreign Legion
-
 ===
-
 ## MY SKILLS
 **SOFT SKILLS**
 * Quick learner
@@ -46,16 +40,12 @@ Military service in the French Foreign Legion
 * Figma/ Photoshop
 * Git/ DitHub
 * ReactJS (soon)
-
 ===
-
 ## LANGUAGES:
 1. Russian (Native)
 2. English (B2)
 3. French (A2)
-
 ===
-
 ## MY CODE EXAMPLE
 ```					
 <header	class="header">
@@ -72,6 +62,5 @@ Military service in the French Foreign Legion
 </header>
 ```			
 ===
-
 ## MY PROJECTS
 https://vega2307.github.io/my_progect_1/
